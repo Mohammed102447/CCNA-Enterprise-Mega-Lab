@@ -1,2 +1,2 @@
-# ccna-full-network-lab
+# ccna-network(Full lab)
 all labs of ccna in one lab
